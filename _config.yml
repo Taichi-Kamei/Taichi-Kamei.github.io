@@ -3,3 +3,6 @@ description: "Engineering Physics student at UBC"
 theme: minima
 markdown: kramdown
 
+include:
+  - assets
+
